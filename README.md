@@ -1,43 +1,69 @@
-# Hi, ich bin Mehmet Deliaci! 👋
+# 👋 Hi, ich bin Mehmet Deliaci
 
-### 🚀 Fullstack Web Developer | Aktuell auf Jobsuche
-
-Willkommen auf meinem GitHub-Profil! Ich bin ein leidenschaftlicher Fullstack-Entwickler, der es liebt, sauberen, effizienten Code zu schreiben und innovative Weblösungen zu entwickeln. Mein Fokus liegt auf der Schaffung großartiger Benutzererlebnisse und robuster Backend-Systeme.
+Ich bin angehender **Fullstack Webentwickler** mit Fokus auf modernen Webtechnologien.
 
 ---
 
-### 💻 Mein Tech Stack
+## 🔍 Aktuell auf Jobsuche
 
-Hier sind die Technologien, mit denen ich täglich arbeite und die ich beherrsche:
+Ich suche eine Position im Bereich **Webentwicklung / Fullstack Development** – gerne mit modernen JavaScript-Frameworks oder Python/Django.  
+Ich freue mich über jede Kontaktaufnahme!
 
-| Kategorie | Technologien |
-| :--- | :--- |
-| **Frontend** | $HTML$, $CSS$, **JavaScript (ES6+)**, **Angular**, Tailwind CSS |
-| **Backend** | **Python**, **Django REST Framework (DRF)** |
-| **Datenbanken** | PostgreSQL, SQLite |
-| **Tools & CI/CD** | Git, GitHub, Docker |
-
-> 💡 **Besondere Expertise:** Ich habe eine starke Affinität zur Entwicklung skalierbarer RESTful APIs mit Python und DRF sowie zur Erstellung dynamischer Single-Page Applications (SPAs) mit Angular.
+📧 **E-Mail**: mehmet.deliaci.developer@hotmail.com
+📍 **Standort**: Weißenburg (91781)
 
 ---
 
-### 🔎 Auf der Suche nach einer Herausforderung
+## 🚀 Tech-Stack
 
-Ich bin derzeit aktiv auf der Suche nach einer **Fullstack Web Developer** Position, bei der ich mein Wissen und meine Fähigkeiten einbringen und erweitern kann. Ich bin offen für Junior- bis Mid-Level-Rollen in dynamischen Teams.
+### Frontend
+<p>
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white">
+</p>
 
-* **Was ich mitbringe:** Schnelle Auffassungsgabe, Problemlösungskompetenz und der Wunsch, mich kontinuierlich weiterzuentwickeln.
-* **Womit ich arbeiten möchte:** Projekte, die moderne Entwicklungspraktiken nutzen und einen echten Mehrwert bieten.
+### Backend
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
+  <img alt="DRF" src="https://img.shields.io/badge/DRF-ff1709?logo=django&logoColor=white">
+  <img alt="REST API" src="https://img.shields.io/badge/REST%20API-005571?logo=fastapi&logoColor=white">
+</p>
+
+### Tools & DevOps
+<p>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
+</p>
 
 ---
 
-### 📫 Kontakt & Vernetzung
+## 🎯 Über mich
 
-Lassen Sie uns in Kontakt treten! Ich freue mich immer über neue Kontakte, Projektideen oder Jobangebote.
-
-* 🔗 **LinkedIn:** https://www.linkedin.com/in/mehmet-deliaci-24285535a/
-* 📧 **E-Mail:** mehmet.deliaci.developer@hotmail.com
-* 🌐 **Portfolio/Website:** mehmet-deliaci.net
+- Quereinsteiger mit Fokus auf moderner Fullstack-Entwicklung  
+- Erfahrung aus einem intensiven Software-Bootcamp  
+- Strukturiertes Arbeiten, saubere Architektur und cleaner Code  
+- Begeisterung für Webentwicklung (Frontend & Backend)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=67Trane&show_icons=true&theme=vue)
+## 📂 Projekte
+
+- 🔥 Angular Frontend Projekte  
+- 🐍 Django & DRF APIs  
+- 🌐 Fullstack-Projekte (Angular + Django)  
+- 🎮 Ein eigenes 2D-Spielprojekt  
+- ⚙️ Tools, Animationen, UI-Komponenten uvm.
+
+---
+
+## 🤝 Austausch & Vernetzung
+
+Ich freue mich über Kontakt von Entwicklern, Recruitern oder Interessierten.
+
+Danke fürs Vorbeischauen! 😊
