@@ -14,8 +14,8 @@ Hier sind die Technologien, mit denen ich täglich arbeite und die ich beherrsch
 | :--- | :--- |
 | **Frontend** | $HTML$, $CSS$, **JavaScript (ES6+)**, **Angular**, Tailwind CSS |
 | **Backend** | **Python**, **Django REST Framework (DRF)** |
-| **Datenbanken** | MySQL, PostgreSQL (oder nennen Sie Ihre bevorzugten) |
-| **Tools & CI/CD** | Git, GitHub, Docker (optional) |
+| **Datenbanken** | PostgreSQL, SQLite |
+| **Tools & CI/CD** | Git, GitHub, Docker |
 
 > 💡 **Besondere Expertise:** Ich habe eine starke Affinität zur Entwicklung skalierbarer RESTful APIs mit Python und DRF sowie zur Erstellung dynamischer Single-Page Applications (SPAs) mit Angular.
 
@@ -34,9 +34,9 @@ Ich bin derzeit aktiv auf der Suche nach einer **Fullstack Web Developer** Posit
 
 Lassen Sie uns in Kontakt treten! Ich freue mich immer über neue Kontakte, Projektideen oder Jobangebote.
 
-* 🔗 **LinkedIn:** [Ihr LinkedIn Profil-Link hier einfügen]
-* 📧 **E-Mail:** [Ihre E-Mail-Adresse hier einfügen]
-* 🌐 **Portfolio/Website:** [Link zu Ihrer persönlichen Website/Ihrem Portfolio (falls vorhanden)]
+* 🔗 **LinkedIn:** https://www.linkedin.com/in/mehmet-deliaci-24285535a/
+* 📧 **E-Mail:** mehmet.deliaci.developer@hotmail.com
+* 🌐 **Portfolio/Website:** mehmet-deliaci.net
 
 ---
 
